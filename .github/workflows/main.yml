@@ -1,1 +1,6 @@
+name: Build PhoneAd Maker APK
 
+"on":
+  push:
+    branches: [main, master]
+  workflow_dispatch:
